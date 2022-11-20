@@ -65,5 +65,15 @@ img{
     .container-two{
         flex-direction: column;
     }
+    .container-three{
+        gap:0;
+    }
+    .container-three-first{
+        flex-direction: column;
+        gap: 0;
+    }
+    .container-three-first img{
+        height: 98px;
+    } 
 
 }
